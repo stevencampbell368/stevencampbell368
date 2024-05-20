@@ -6,8 +6,8 @@
  - ([https://github.com/joshmadakor1/LABURL](https://github.com/stevencampbell368/ActiveDirectoryLab-))
 
 
-- <b>Building a Home Network</b>
-  - [[README.md](https://github.com/stevencampbell368/BuildingHomeNetwork)) <b><i>(Potentially NSFW)</b></i>
+- <b>Labs</b>
+  - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
 
   
 - <b>PowerShell</b>
