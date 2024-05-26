@@ -7,8 +7,7 @@
 
 
   <b>IDS & SIEM</b>
-  - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
-
+  - [Building a SIEM](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
   
   <b>Scripting</b>
   - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
