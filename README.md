@@ -2,19 +2,19 @@
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
-<b>Active Directory Home Lab</b>
+<b>Networking</b>
   - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
 
 
-  <b>Labs</b>
+  <b>IDS & SIEM</b>
   - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
 
   
-  <b>PowerShell</b>
+  <b>Scripting</b>
   - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
 
     
-  <b>C# (.NET Desktop Applications)</b>
+  <b>Tcpdump & Wireshark</b>
   - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
 
  
