@@ -1,5 +1,14 @@
 <h1>Hi, I'm Steven! <br/><a href="www.linkedin.com/in/steven-campbell-862258147/">Cybersecurity Professional</a>
 
+</p>
+</p>
+
+
+<p>Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.</p>
+
+
+
+
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
 <b>Networking</b>
