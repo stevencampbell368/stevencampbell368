@@ -18,13 +18,9 @@
   <b>IDS & SIEM</b>
   - [Building a SIEM](https://github.com/stevencampbell368/BuildingaSIEM)</b></i>
   
-  
-  <b>Scripting</b>
-  - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
-
     
-  <b>Tcpdump & Wireshark</b>
-  - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
+  <b>Phishing</b>
+  - [Building a Phishing Simulation](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation)</b></i>
 
  
   <b>Python</b>
