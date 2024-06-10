@@ -24,12 +24,9 @@
 - [Jamf Certified Tech](https://account.jamf.com/training-courses/certificate/CshVo14QYoY2BGQkMuYwUA)
 - [A Day in the Life of a Cybersecurity Anayst](https://account.jamf.com/training-courses/certificate/CshVo14QYoY2BGQkMuYwUA)
 
+<br />
 
-<h2> 🤳 Connect with me:</h2>
+**Stay tuned for updates!**
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/steven-campbell-862258147
-
-
+This portfolio will expand over time as I earn additional certificates and complete more projects. I invite you to revisit to track my progress and discover more about my skills and expertise. Thank you for your time. For further details, feel free to connect with me on [Linkedin](http://www.linkedin.com/in/steven-campbell-862258147).
 
