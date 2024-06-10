@@ -15,11 +15,8 @@
 | 3- [Building a Phishing Simulation](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Phishing awareness`, `Campaign planning`, `Phishing tools`, `User training`, `Metrics analysis` | 
 | 4- Insert text | `Insert text`|
 | 5- Insert text | `Insert text`|
-| 6- Insert text | `Insert text`|
-| 7- Insert text | `Insert text`| 
 
-
-<h2> 📜 Certifications</h2>
+###   📜 Certifications:
 
 - [Jamf Certified Tech](https://account.jamf.com/training-courses/certificate/CshVo14QYoY2BGQkMuYwUA)
 - [A Day in the Life of a Cybersecurity Anayst](https://account.jamf.com/training-courses/certificate/CshVo14QYoY2BGQkMuYwUA)
