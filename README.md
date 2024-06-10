@@ -1,30 +1,23 @@
 <h1>Hi, I'm Steven! <br/><a href="www.linkedin.com/in/steven-campbell-862258147/">Cybersecurity Professional</a>
-
 </p>
 </p>
 
-
-<p>Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.</p>
-
+<p>Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.<p>
 
 
 
-<h2> 👨‍💻 Cybersecurity Projects:</h2>
 
-<b>Networking</b>
-  - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
+### 👨‍💻 Cybersecurity Projects:  
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| 1- [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork) | `Networking basics`, `Hardware setup`, `Security measures`, `Troubleshooting skills` |
+| 2- [Building a SIEM](https://github.com/stevencampbell368/BuildingaSIEM) | `Cybersecurity fundamentals`,  `SIEM architecture`, `Log management`, `Incident detection`, `Compliance and reporting`| 
+| 3- [Building a Phishing Simulation](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Phishing awareness`, `Campaign planning`, `Phishing tools`, `User training`, `Metrics analysis` | 
+| 4- Insert text | `Insert text`|
+| 5- Insert text | `Insert text`|
+| 6- Insert text | `Insert text`|
+| 7- Insert text | `Insert text`| 
 
-
-  <b>IDS & SIEM</b>
-  - [Building a SIEM](https://github.com/stevencampbell368/BuildingaSIEM)</b></i>
-  
-    
-  <b>Phishing</b>
-  - [Building a Phishing Simulation](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation)</b></i>
-
- 
-  <b>Python</b>
-  - [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork)</b></i>
 
 <h2> 📜 Certifications</h2>
 
@@ -38,17 +31,5 @@
 
 [linkedin]: www.linkedin.com/in/steven-campbell-862258147
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
