@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven! <br/><a href="www.linkedin.com/in/steven-campbell-862258147/">Cybersecurity Professional</a>
+<h1>Hi, I'm Steven! <br/><a href="www.linkedin.com/in/steven-campbell-862258147/">Cybersecurity Professional</h1>
 </p>
 </p>
 
