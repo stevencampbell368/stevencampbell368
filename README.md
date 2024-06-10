@@ -7,7 +7,7 @@
 
 
 
-### 👨‍💻 Cybersecurity Projects:  
+###  👨‍💻 Cybersecurity Projects:
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | 1- [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork) | `Networking basics`, `Hardware setup`, `Security measures`, `Troubleshooting skills` |
