@@ -2,7 +2,13 @@
 </p>
 </p>
 
-<p>Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.<p>
+Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.
+
+I'm committed to staying updated on the latest cybersecurity trends. I regularly listen to cyber podcasts, follow industry professionals, and take online courses like the Google Cybersecurity Professional Certificate. As of July 2024, I'm preparing for the CompTIA Security+ certification.
+
+
+
+
 
 
 
