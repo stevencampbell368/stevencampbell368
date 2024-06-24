@@ -19,8 +19,7 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 
 ###   📜 Certifications:
 
-- [Google Cybersecurity Professional Certificate]
-- [NCFE Level 2 Certificate  in Principles of Cyber Security]
+- Google Cybersecurity Professional Certificate
 
 <br />
 
