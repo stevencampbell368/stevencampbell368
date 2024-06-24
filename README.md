@@ -20,6 +20,7 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 ###   📜 Certifications:
 
 - Google Cybersecurity Professional Certificate
+- CompTIA Security+ (SY0-701) Certification
 
 <br />
 
