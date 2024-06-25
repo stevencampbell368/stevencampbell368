@@ -1,4 +1,8 @@
-<h1>Hi, I'm Steven! <br/><a href="www.linkedin.com/in/steven-campbell-862258147/">Cybersecurity Professional</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stevencampbell368.stevencampbell368" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏾;+I'm+Steven!;" />
+</h1>
 
 Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.
 
