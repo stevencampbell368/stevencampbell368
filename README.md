@@ -29,7 +29,26 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 
 <br />
 
+
 **Stay tuned for updates!**
 
-This portfolio will expand over time as I earn additional certificates and complete more projects. I invite you to revisit to track my progress and discover more about my skills and expertise. Thank you for your time. For further details, feel free to connect with me on [Linkedin](http://www.linkedin.com/in/steven-campbell-862258147).
+This portfolio will expand over time as I earn additional certificates and complete more projects. I invite you to revisit to track my progress and discover more about my skills and expertise. Thank you for your time. 
+
+<br />
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:stevencampbell368@live.co.uk">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="http://www.linkedin.com/in/steven-campbell-862258147" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/stevencampbell368" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+
 
