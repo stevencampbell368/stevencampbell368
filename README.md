@@ -17,7 +17,7 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 | 2- [Building a SIEM](https://github.com/stevencampbell368/BuildingaSIEM) | `Cybersecurity fundamentals`,  `SIEM architecture`, `Log management`, `Incident detection`, `Compliance and reporting`| 
 | 3- [Building a Phishing Simulation](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Phishing awareness`, `Campaign planning`, `Phishing tools`, `User training`, `Metrics analysis` | 
 | 4- [Splunk Workshops](https://github.com/stevencampbell368/Splunk)| `Use Cases`,`App Creation`,`Data Onboarding`,`Search Processing Language (SPL)`,`Interactive Dashboard Building`,`Insert text`|
-| 5- [Digital Forensics](https://github.com/stevencampbell368/test/blob/main/README.md)| `Forensic Tools`, `Metadata Analysis`, `Critical Thinking`,'Reporting`|
+| 5- [Digital Forensics](https://github.com/stevencampbell368/test/blob/main/README.md)| `Forensic Tools`, `Metadata Analysis`, `Critical Thinking`,`Reporting`|
 
 
 <br />
