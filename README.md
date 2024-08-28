@@ -25,9 +25,8 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 ###   📜 Certifications:
 
 - Google Cybersecurity Professional Certificate
-- CompTIA Security+ (SY0-701) Certification (Expected 08/24)
-- Blue Team Level 1, Junior Security Operations Certification (Expected 10/24)
-- Microsoft Certified: Azure Fundamentals (AZ-900)  (Expected 11/24)
+- CompTIA Security+ (SY0-701) Certification (Expected 09/24)
+
 
 <br />
 
