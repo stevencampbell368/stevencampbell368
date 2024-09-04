@@ -24,7 +24,7 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 
 ###   📜 Certifications:
 
-- Google Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certification
 - CompTIA Security+ (SY0-701) Certification (Expected 09/24)
 - CompTIA Network+ (N10-009) Certification (Expected 11/24)
 
