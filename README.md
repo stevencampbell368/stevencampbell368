@@ -6,7 +6,7 @@
 
 Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.
 
-I'm committed to staying updated on the latest cybersecurity trends. I regularly listen to cyber podcasts, follow industry professionals, and take online courses like the Google Cybersecurity Professional Certificate. As of July 2024, I'm preparing for the CompTIA Security+ certification.
+I'm committed to staying updated on the latest cybersecurity trends. I regularly listen to cyber podcasts, follow industry professionals, and take online courses like the Google Cybersecurity Professional Certificate. As of July 2024, I'm preparing for the CompTIA Security+ certification, with plans to pursue the CompTIA Network+ certification next.
 
 <br />
 
@@ -24,8 +24,8 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 ###   📜 Certifications:
 
 - Google Cybersecurity Professional Certification
-- CompTIA Security+ (SY0-701) Certification (Expected 09/24)
-- CompTIA Network+ (N10-009) Certification (Expected 11/24)
+- CompTIA Security+ (SY0-701) Certification (In Progress)
+- CompTIA Network+ (N10-009) Certification (In Progress)
 
 <br />
 
