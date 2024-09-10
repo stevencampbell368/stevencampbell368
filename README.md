@@ -24,7 +24,7 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 ###   📜 Certifications:
 
 - Google Cybersecurity Professional Certification
-- Microsoft Certified: Azure Fundamentals (AZ-900)                                                                                                  September 2024
+- Microsoft Certified: Azure Fundamentals (AZ-900)                                                                                                  
 - CompTIA Security+ (SY0-701) Certification (In Progress)
 - CompTIA Network+ (N10-009) Certification (In Progress)
 
