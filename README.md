@@ -6,8 +6,7 @@
 
 Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.
 
-I'm committed to staying updated on the latest cybersecurity trends. I regularly listen to cyber podcasts, follow industry professionals, and take online courses like the CompTIA Security+ Certificate. Currently, as of November 2024, I am preparing for the Blue Team Level 1 (BTL1) certification and plan to pursue the CISSP (Certified Information Systems Security Professional) certification next.
-
+I am committed to staying up to date with the latest cybersecurity trends. I actively engage with cybersecurity podcasts, follow industry experts, and pursue industry recognised certifications, including the CompTIA Security+ certification. As of November 2024, I am preparing for the Blue Team Level 1 (BTL1) certification and plan to pursue the CISSP (Certified Information Systems Security Professional) certification next.
 
 <br />
 
