@@ -23,10 +23,10 @@ I am committed to staying up to date with the latest cybersecurity trends. I act
 
 ###   📜 Certifications:
 
-- Google Cybersecurity Professional Certification
+- Google Cybersecurity Professional 
 - Microsoft Certified: Azure Fundamentals (AZ-900)                                                                                                  
-- CompTIA Security+ (SY0-701) Certification
-- Blue Team Level 1 (BTL1) Certification (In Progress)
+- CompTIA Security+ (SY0-701) 
+- Blue Team Level 1 (BTL1) (In Progress)
 
 <br />
 
