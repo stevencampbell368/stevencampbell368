@@ -6,7 +6,8 @@
 
 Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.
 
-I'm committed to staying updated on the latest cybersecurity trends. I regularly listen to cyber podcasts, follow industry professionals, and take online courses like the Google Cybersecurity Professional Certificate. As of July 2024, I'm preparing for the CompTIA Security+ certification, with plans to pursue the CompTIA Network+ certification next.
+I'm committed to staying updated on the latest cybersecurity trends. I regularly listen to cyber podcasts, follow industry professionals, and take online courses like the CompTIA Security+ Certificate. Currently, as of November 2024, I am preparing for the Blue Team Level 1 (BTL1) certification and plan to pursue the CISSP (Certified Information Systems Security Professional) certification next.
+
 
 <br />
 
@@ -25,8 +26,8 @@ I'm committed to staying updated on the latest cybersecurity trends. I regularly
 
 - Google Cybersecurity Professional Certification
 - Microsoft Certified: Azure Fundamentals (AZ-900)                                                                                                  
-- CompTIA Security+ (SY0-701) Certification (In Progress)
-- CompTIA Network+ (N10-009) Certification (In Progress)
+- CompTIA Security+ (SY0-701) Certification
+- Blue Team Level 1 (BTL1) Certification (In Progress)
 
 <br />
 
