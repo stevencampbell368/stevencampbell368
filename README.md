@@ -6,7 +6,8 @@
 
 Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.
 
-I am committed to staying up to date with the latest cybersecurity trends. I actively engage with cybersecurity podcasts, follow industry experts, and pursue industry recognised certifications, including the CompTIA Security+ certification. As of November 2024, I am preparing for the Blue Team Level 1 (BTL1) certification and plan to pursue the Microsoft Certified: Security Operations Analyst Associate (SC -200) certification next.
+I am committed to staying up to date with the latest cybersecurity trends. I actively engage with cybersecurity podcasts, follow industry experts, and pursue industry-recognised certifications, including the CompTIA Security+, Azure Fundamentals, and Blue Team Level 1 certifications.
+
 
 <br />
 
@@ -26,7 +27,7 @@ I am committed to staying up to date with the latest cybersecurity trends. I act
 - Google Cybersecurity Professional 
 - Microsoft Certified: Azure Fundamentals (AZ-900)                                                                                                  
 - CompTIA Security+ (SY0-701) 
-- Blue Team Level 1 (BTL1) (In Progress)
+- Blue Team Level 1 (BTL1) 
 
 <br />
 
