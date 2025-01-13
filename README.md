@@ -18,7 +18,7 @@ I am committed to staying up to date with the latest cybersecurity trends. I act
 | 2- [Building a SIEM](https://github.com/stevencampbell368/BuildingaSIEM) | `Cybersecurity fundamentals`,  `SIEM architecture`, `Log management`, `Incident detection`, `Compliance and reporting`| 
 | 3- [Building a Phishing Simulation](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Phishing awareness`, `Campaign planning`, `Phishing tools`, `User training`, `Metrics analysis` | 
 | 4- [Splunk Workshop](https://github.com/stevencampbell368/Splunk4Rookies)| `Use Cases`,`App Creation`,`Data Onboarding`,`Search Processing Language (SPL)`,`Interactive Dashboard Building`|
-| 5- [Blue Team Level 1 Training](https://github.com/stevencampbell368/Splunk4Rookies)| `Traffic Analysis`,`Endpoint Monitoring`,`SIEM Utilisation`,`Log Analysis`,`Forensic Investigation`,`Threat Intelligence`,`Risk Assessment`,`Phishing Detection`|
+| 5- [Blue Team Level 1 Training](https://github.com/stevencampbell368/BlueTeamLevel1Certificate-)| `Traffic Analysis`,`Endpoint Monitoring`,`SIEM Utilisation`,`Log Analysis`,`Forensic Investigation`,`Threat Intelligence`,`Risk Assessment`,`Phishing Detection`|
 
 <br />
 
