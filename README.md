@@ -20,7 +20,7 @@ I am committed to staying up to date with the latest cybersecurity trends. I act
 | 4- [Splunk Workshop](https://github.com/stevencampbell368/Splunk4Rookies)| `Use Cases`,`App Creation`,`Data Onboarding`,`Search Processing Language (SPL)`,`Interactive Dashboard Building`|
 | 5- [Blue Team Level 1 Training](https://github.com/stevencampbell368/BlueTeamLevel1Certificate-)| `Traffic Analysis`,`Endpoint Monitoring`,`SIEM Utilisation`,`Log Analysis`,`Forensic Investigation`,`Threat Intelligence`,`Risk Assessment`,`Phishing Detection`|
 | 6- [Microsoft Sentinel: Authentication Logins & Threat Detection](https://github.com/stevencampbell368/Microsoft-Sentinel)| `KQL Queries`, `Log Analysis`, `Microsoft Sentinel Workbooks`, `Threat Hunting`, `Geolocation-based Monitoring`, `Anomaly Detection`, `Incident Response`|
-| 7- [Vulnerability Management Projects](https://github.com/stevencampbell368/Vulnerability-Management-Projects)| ``|
+| 7- [Vulnerability Management](https://github.com/stevencampbell368/Vulnerability-Management-Projects)| ``|
 | 8- [Threat Hunting and Security Operations](https://github.com/stevencampbell368/-Threat-Hunting-and-Security-Operations)| ``|
 
 <br />
