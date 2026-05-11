@@ -16,11 +16,9 @@ I am committed to staying up to date with the latest cloud and cybersecurity tre
 | 1- [Conditional Access Policy Enforcement](https://github.com/stevencampbell368/BuildingHomeNetwork) | `Conditional Access`, `IAM`, `Managed Devices`, `MFA`, `Zero Trust`, `Access Control`, `Entra ID Security`|
 | 2- [Cloud Security Posture Assessment](https://github.com/stevencampbell368/BuildingaSIEM) | `Azure Security`,  `CSPM`, `Misconfiguration Scanning`, `Exposure Mapping`, `Risk Analysis`, `Security Hardening`| 
 | 3- [Access Key Rotation & Slack Notification Bot](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Access Key Management`, `Slack API`, `Azure Authentication`, `Automation`, `Credential Rotation`, `DevSecOps`| 
-| 4- [Splunk Workshop](https://github.com/stevencampbell368/Splunk4Rookies)| `Use Cases`,`App Creation`,`Data Onboarding`,`Search Processing Language (SPL)`,`Interactive Dashboard Building`|
-| 5- [Blue Team Level 1 Training](https://github.com/stevencampbell368/BlueTeamLevel1Certificate-)| `Traffic Analysis`,`Endpoint Monitoring`,`SIEM Utilisation`,`Log Analysis`,`Forensic Investigation`,`Threat Intelligence`,`Risk Assessment`,`Phishing Detection`|
-| 6- [Microsoft Sentinel: Authentication Logins & Threat Detection](https://github.com/stevencampbell368/Microsoft-Sentinel)| `KQL Queries`, `Log Analysis`, `Microsoft Sentinel Workbooks`, `Threat Hunting`, `Geolocation-based Monitoring`, `Anomaly Detection`, `Incident Response`|
-| 7- [Vulnerability Management](https://github.com/stevencampbell368/Vulnerability-Management-Projects)| ``|
-| 8- [Threat Hunting and Security Operations](https://github.com/stevencampbell368/-Threat-Hunting-and-Security-Operations)| ``|
+| 4- [Configuration Compliance Management System](https://github.com/stevencampbell368/Splunk4Rookies)| `Configuration Management`,`Compliance Monitoring`,`Security Baselines`,`Logging`,`Event Hub`,`Policy Auditing`|
+| 5- [Secure SMB File Share with Backup & Recovery](https://github.com/stevencampbell368/BlueTeamLevel1Certificate-)| `SMB Configuration`,`Soft Delete`,`Snapshots`,`Backup & Recovery`,`Storage Security`,`Disaster Recovery`|
+
 
 <br />
 
