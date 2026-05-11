@@ -13,9 +13,12 @@ I am committed to staying up to date with the latest cloud and cybersecurity tre
 ###  👨‍💻  Cloud Security Projects:
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| 1- [Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork) | `Networking basics`, `Hardware setup`, `Security measures`, `Troubleshooting skills` |
-| 2- [Building a SIEM](https://github.com/stevencampbell368/BuildingaSIEM) | `Cybersecurity fundamentals`,  `SIEM architecture`, `Log management`, `Incident detection`, `Compliance and reporting`| 
-| 3- [Building a Phishing Simulation](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Phishing awareness`, `Campaign planning`, `Phishing tools`, `User training`, `Metrics analysis` | 
+| 1- [Conditional Access Policy Enforcement](https://github.com/stevencampbell368/BuildingHomeNetwork) | `Conditional Access`, `IAM`, `Managed Devices`, `MFA`, `Zero Trust`, `Access Control`, `Entra ID Security`|
+| 2- [Cloud Security Posture Assessment](https://github.com/stevencampbell368/BuildingaSIEM) | `Azure Security`,  `CSPM`, `Misconfiguration Scanning`, `Exposure Mapping`, `Risk Analysis`, `Security Hardening`| 
+| 3- [Access Key Rotation & Slack Notification Bot](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Access Key Management`, `Slack API`, `Azure Authentication`, `Automation`, `Credential Rotation`, `DevSecOps`| 
+
+
+
 | 4- [Splunk Workshop](https://github.com/stevencampbell368/Splunk4Rookies)| `Use Cases`,`App Creation`,`Data Onboarding`,`Search Processing Language (SPL)`,`Interactive Dashboard Building`|
 | 5- [Blue Team Level 1 Training](https://github.com/stevencampbell368/BlueTeamLevel1Certificate-)| `Traffic Analysis`,`Endpoint Monitoring`,`SIEM Utilisation`,`Log Analysis`,`Forensic Investigation`,`Threat Intelligence`,`Risk Assessment`,`Phishing Detection`|
 | 6- [Microsoft Sentinel: Authentication Logins & Threat Detection](https://github.com/stevencampbell368/Microsoft-Sentinel)| `KQL Queries`, `Log Analysis`, `Microsoft Sentinel Workbooks`, `Threat Hunting`, `Geolocation-based Monitoring`, `Anomaly Detection`, `Incident Response`|
