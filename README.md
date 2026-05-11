@@ -25,11 +25,12 @@ I am committed to staying up to date with the latest cloud and cybersecurity tre
 <br />
 
 ###   📜 Certifications:
-
-- Google Cybersecurity Professional 
-- Microsoft Certified: Azure Fundamentals (AZ-900)                                                                                                  
+                                                                                              
 - CompTIA Security+ (SY0-701) 
-- Blue Team Level 1 (BTL1) 
+- ICS310: ICS Cybersecurity Foundations
+- Microsoft Certified: Security Operations Analyst (SC-200)
+- Microsoft Azure Security Engineer (AZ-500) *In Progress*
+- Microsoft Certified: Azure Administrator (AZ-104) *In Progress*
 
 <br />
 
