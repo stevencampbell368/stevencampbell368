@@ -4,10 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏾;+I'm+Steven!;" />
 </h1>
 
-Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.
+Welcome to my cloud security portfolio! Here, you’ll find a showcase of various cloud security projects, labs, and automation tasks I’ve completed, with more to come.
 
-I am committed to staying up to date with the latest cybersecurity trends. I actively engage with cybersecurity podcasts, follow industry experts, and pursue industry-recognised certifications, including the CompTIA Security+, Azure Fundamentals, and Blue Team Level 1 certifications.
-
+I am committed to staying up to date with the latest cloud and cybersecurity trends. I actively build hands on projects and continue developing my skills in Azure, IAM, Terraform, Microsoft Sentinel, XDR, and Zero Trust security.
 
 <br />
 
