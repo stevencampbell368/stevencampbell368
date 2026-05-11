@@ -36,7 +36,7 @@ I am committed to staying up to date with the latest cloud and cybersecurity tre
 
 **Stay tuned for updates!**
 
-This portfolio will expand over time as I earn additional certificates and complete more projects. I invite you to revisit to track my progress and discover more about my skills and expertise. Thank you for your time. 
+This portfolio will continue to grow as I complete new projects and expand my cloud security knowledge. Feel free to check back to follow my progress and explore more of my skills and experience. Thank you for visiting.
 
 <br />
 
