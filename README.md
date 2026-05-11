@@ -29,8 +29,8 @@ I am committed to staying up to date with the latest cloud and cybersecurity tre
 - CompTIA Security+ (SY0-701) 
 - ICS310: ICS Cybersecurity Foundations
 - Microsoft Certified: Security Operations Analyst (SC-200)
-- Microsoft Azure Security Engineer (AZ-500) -*In Progress*
-- Microsoft Certified: Azure Administrator (AZ-104) -*In Progress*
+- Microsoft Azure Security Engineer (AZ-500) - *In Progress*
+- Microsoft Certified: Azure Administrator (AZ-104) - *In Progress*
 
 <br />
 
