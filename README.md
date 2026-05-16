@@ -4,9 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏾;+I'm+Steven!;" />
 </h1>
 
-Welcome to my cloud security portfolio! Here, you’ll find a showcase of various cloud security projects, labs, and automation tasks I’ve completed, with more to come.
+I am a Cloud Security Engineer focused on securing and automating modern cloud environments through hands on projects, infrastructure as code, and security engineering best practices.
 
-I am committed to staying up to date with the latest cloud and cybersecurity trends. I actively build hands on projects and continue developing my skills in Azure, IAM, Terraform, Microsoft Sentinel, XDR, and Zero Trust security.
+This portfolio showcases cloud security projects and real world implementations covering IAM, secure networking, infrastructure provisioning, security hardening, monitoring, detection engineering, and remediation workflows across Azure and cloud native environments.
+
+I actively continue developing my expertise in Azure, Terraform, Microsoft Sentinel, XDR, Zero Trust architecture, identity security, SIEM/SOAR, and long term cloud monitoring to build scalable, resilient, and secure cloud infrastructures.
+
 
 <br />
 
