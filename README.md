@@ -16,7 +16,7 @@ I actively continue developing my expertise in Azure, Terraform, Microsoft Senti
 ###  👨‍💻  Cloud Security Projects:
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| 1- [Conditional Access Policy Enforcement](https://github.com/stevencampbell368/BuildingHomeNetwork) | `Conditional Access`, `IAM`, `Managed Devices`, `MFA`, `Zero Trust`, `Access Control`, `Entra ID Security`|
+| 1- [Entra ID Zero Trust Access](https://github.com/stevencampbell368/EntraIDZeroTrustAccess) | `Microsoft Entra ID`, `Conditional Access`, `MFA`, `PIM`, `RBAC`, `Identity Protection`, `Azure Monitor`, `Zero Trust`, `IAM`|
 | 2- [Cloud Security Posture Assessment](https://github.com/stevencampbell368/BuildingaSIEM) | `Azure Security`,  `CSPM`, `Misconfiguration Scanning`, `Exposure Mapping`, `Risk Analysis`, `Security Hardening`| 
 | 3- [Access Key Rotation & Slack Notification Bot](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Access Key Management`, `Slack API`, `Azure Authentication`, `Automation`, `Credential Rotation`, `DevSecOps`| 
 | 4- [Configuration Compliance Management System](https://github.com/stevencampbell368/Splunk4Rookies)| `Configuration Management`,`Compliance Monitoring`,`Security Baselines`,`Logging`,`Event Hub`,`Policy Auditing`|
