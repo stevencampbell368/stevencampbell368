@@ -18,12 +18,6 @@ I am continuously developing my expertise across Azure, Microsoft Entra ID, Micr
 | 1- [Microsoft Purview Communication Compliance – Insider Risk Detection for Exchange Online & Microsoft Teams]([https://github.com/stevencampbell368/microsoft-purview-communication-compliance)|`Microsoft Purview`, `Communication Compliance`, `Trainable Classifiers`, `Exchange Online`, `Microsoft Teams`,`Microsoft 365`, `Insider Risk`, `RBAC/ Least Privilege`,`Data Governance`,`Compliance Engineering`,`Alert Triage`|
 
 
-| 2- [Entra ID Zero Trust Access](https://github.com/stevencampbell368/EntraIDZeroTrustAccess) | `Microsoft Entra ID`, `Conditional Access`, `MFA`, `PIM`, `RBAC`, `Identity Protection`, `Azure Monitor`, `Zero Trust`, `IAM`|
-| 3- [Cloud Security Posture Assessment](https://github.com/stevencampbell368/BuildingaSIEM) | `Azure Security`,  `CSPM`, `Misconfiguration Scanning`, `Exposure Mapping`, `Risk Analysis`, `Security Hardening`| 
-| 4- [Access Key Rotation & Slack Notification Bot](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Access Key Management`, `Slack API`, `Azure Authentication`, `Automation`, `Credential Rotation`, `DevSecOps`| 
-| 5- [Configuration Compliance Management System](https://github.com/stevencampbell368/Splunk4Rookies)| `Configuration Management`,`Compliance Monitoring`,`Security Baselines`,`Logging`,`Event Hub`,`Policy Auditing`|
-| 6- [Secure SMB File Share with Backup & Recovery](https://github.com/stevencampbell368/BlueTeamLevel1Certificate-)| `SMB Configuration`,`Soft Delete`,`Snapshots`,`Backup & Recovery`,`Storage Security`,`Disaster Recovery`|
-
 
 <br />
 
@@ -32,7 +26,7 @@ I am continuously developing my expertise across Azure, Microsoft Entra ID, Micr
 - CompTIA Security+ (SY0-701) 
 - ICS310: ICS Cybersecurity Foundations
 - Microsoft Certified: Security Operations Analyst (SC-200)
-- Microsoft Certified: Azure Administrator (AZ-104) - *In Progress*
+- Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) - *In Progress*
 
 <br />
 
