@@ -16,15 +16,11 @@ I am continuously developing my expertise across Azure, Microsoft Entra ID, Micr
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | 1- [Microsoft Purview Communication Compliance – Insider Risk Detection for Exchange Online & Microsoft Teams]([https://github.com/stevencampbell368/microsoft-purview-communication-compliance) |`Microsoft Purview`, `Communication Compliance`, `Trainable Classifiers`, `Exchange Online`, `Microsoft Teams`, `Insider Risk`, `RBAC`, `Least Privilege'|
-
-
-
-
-| 1- [Entra ID Zero Trust Access](https://github.com/stevencampbell368/EntraIDZeroTrustAccess) | `Microsoft Entra ID`, `Conditional Access`, `MFA`, `PIM`, `RBAC`, `Identity Protection`, `Azure Monitor`, `Zero Trust`, `IAM`|
-| 2- [Cloud Security Posture Assessment](https://github.com/stevencampbell368/BuildingaSIEM) | `Azure Security`,  `CSPM`, `Misconfiguration Scanning`, `Exposure Mapping`, `Risk Analysis`, `Security Hardening`| 
-| 3- [Access Key Rotation & Slack Notification Bot](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Access Key Management`, `Slack API`, `Azure Authentication`, `Automation`, `Credential Rotation`, `DevSecOps`| 
-| 4- [Configuration Compliance Management System](https://github.com/stevencampbell368/Splunk4Rookies)| `Configuration Management`,`Compliance Monitoring`,`Security Baselines`,`Logging`,`Event Hub`,`Policy Auditing`|
-| 5- [Secure SMB File Share with Backup & Recovery](https://github.com/stevencampbell368/BlueTeamLevel1Certificate-)| `SMB Configuration`,`Soft Delete`,`Snapshots`,`Backup & Recovery`,`Storage Security`,`Disaster Recovery`|
+| 2- [Entra ID Zero Trust Access](https://github.com/stevencampbell368/EntraIDZeroTrustAccess) | `Microsoft Entra ID`, `Conditional Access`, `MFA`, `PIM`, `RBAC`, `Identity Protection`, `Azure Monitor`, `Zero Trust`, `IAM`|
+| 3- [Cloud Security Posture Assessment](https://github.com/stevencampbell368/BuildingaSIEM) | `Azure Security`,  `CSPM`, `Misconfiguration Scanning`, `Exposure Mapping`, `Risk Analysis`, `Security Hardening`| 
+| 4- [Access Key Rotation & Slack Notification Bot](https://github.com/stevencampbell368/GoPhish-Phishing-Simulation) | `Access Key Management`, `Slack API`, `Azure Authentication`, `Automation`, `Credential Rotation`, `DevSecOps`| 
+| 5- [Configuration Compliance Management System](https://github.com/stevencampbell368/Splunk4Rookies)| `Configuration Management`,`Compliance Monitoring`,`Security Baselines`,`Logging`,`Event Hub`,`Policy Auditing`|
+| 6- [Secure SMB File Share with Backup & Recovery](https://github.com/stevencampbell368/BlueTeamLevel1Certificate-)| `SMB Configuration`,`Soft Delete`,`Snapshots`,`Backup & Recovery`,`Storage Security`,`Disaster Recovery`|
 
 
 <br />
