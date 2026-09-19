@@ -15,7 +15,7 @@ I am continuously developing my expertise across Azure, Microsoft Entra ID, Micr
 ###  👨‍💻  Cyber Security Projects:
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| 1- [Microsoft Purview Communication Compliance – Insider Risk Detection for Exchange Online & Microsoft Teams]([https://github.com/stevencampbell368/microsoft-purview-communication-compliance)|`Microsoft Purview`, `Communication Compliance`, `Trainable Classifiers`, `Exchange Online`, `Microsoft Teams`,`Microsoft 365`, `Insider Risk`, `RBAC/ Least Privilege`,`Data Governance`,`Compliance Engineering`,`Alert Triage`|
+| 1- [Microsoft Purview Communication Compliance – Insider Risk Detection for Exchange Online & Microsoft Teams](https://github.com/stevencampbell368/microsoft-purview-communication-compliance)|`Microsoft Purview`, `Communication Compliance`, `Trainable Classifiers`, `Exchange Online`, `Microsoft Teams`,`Microsoft 365`, `Insider Risk`, `RBAC/ Least Privilege`,`Data Governance`,`Compliance Engineering`,`Alert Triage`|
 
 
 
